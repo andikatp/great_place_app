@@ -8,6 +8,8 @@
 	<String>We need to take a Picture!</String>
 	<key>NSMicrophoneUsageDescription </key>
 	<String>We need to take a Picture!</String>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<String>We need to get your location!</String>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
