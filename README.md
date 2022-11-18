@@ -1,16 +1,16 @@
-# greate_place_app
+# GREAT PLACE
 
-A new Flutter project.
+An app for saving the place that weve been visited
 
-## Getting Started
+# TECHNOLOGY
 
-This project is a starting point for a Flutter application.
+- cupertino_icons: ^1.0.2
+- provider: ^6.0.4
+- image_picker: ^0.8.6
+- path_provider: ^2.0.11
+- path: ^1.8.2
+- sqflite: ^2.2.0+3
+- location: ^4.4.0
+- flutter_map: ^3.0.0
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#DEMO
